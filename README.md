@@ -1,2 +1,2 @@
 # first-javascript-program
-today is our 1st program
+today is my 1st program
